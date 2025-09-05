@@ -44,3 +44,5 @@ The Amazon Store Sales Dashboard is an interactive Power BI dashboard designed t
 6)  Return Status
 * Accepted: 95.14%
 * Returned: 4.86%
+
+<img width="1335" height="752" alt="Screenshot 2025-08-29 073415(1)" src="https://github.com/user-attachments/assets/86049542-7887-4a49-9c48-e8cb0193910d" />
